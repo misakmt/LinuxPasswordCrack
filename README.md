@@ -1,4 +1,4 @@
-# Cracking Linux Hashes
+# Checking Linux Hashes
 
 Simple script to compare /etc/shadow file againts a large password dictionary
 
