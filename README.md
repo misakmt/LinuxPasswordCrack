@@ -14,7 +14,8 @@ or
 pip3 install crypt
 ```
 
-Left comments for availability of different approaches
+*Left comments for availability of different approaches
 
---
+-- 
+
 MT
